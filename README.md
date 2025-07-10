@@ -1,1 +1,1 @@
-# pslabel-gateway-iot
+# pslabel-iot-agent
